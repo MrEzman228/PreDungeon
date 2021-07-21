@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrEzman228
+- 👀 I’m interested in Coding Games
+- 🌱 I’m currently learning How to Code in C# in general
+- 📫 How to reach me mrezman228@gmail.com
