@@ -2,5 +2,4 @@
 - 👀 I’m interested in Coding Games
 - 🌱 I’m currently learning How to Code in C# generally
 - 📫 How to reach me mrezman228@gmail.com
-- 🌐 My Discord Server: https://discord.gg/ErgCGRRv8u
 - 🌐 My Instagram: https://www.instagram.com/mrezman228/
